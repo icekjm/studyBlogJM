@@ -4,6 +4,7 @@ from flask_cors import CORS
 from blog_view import blog
 import os
 
+#마지막 마스터
 #맥에서 깃연습하는중...
 #윈도우에서 깃연습하는중...
 #맥OS BRANCH
