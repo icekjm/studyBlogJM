@@ -5,6 +5,7 @@ from blog_view import blog
 import os
 
 
+#맥OS BRANCH
 # 윈도우BRANCH 다시
 # https 만을 지원하는 기능을 http 프로토콜에서 테스트할 때 필요한 설정
 os.environ['OAUTHLIB_INSECURE_TRANSPORT'] = '1'
